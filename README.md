@@ -1,8 +1,8 @@
 # Hi there 👋
 
-#I'm farruhdev 
+# I'm farruhdev 
 
-##Here are some ideas to get you started:
+## Here are some ideas to get you started:
 
   🔭 I’m currently working on Understanding Wep devlopment  
   🌱 I’m currently learning ...        
