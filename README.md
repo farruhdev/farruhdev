@@ -1,9 +1,8 @@
 # Hi there 👋
 
-##I'm farruhdev 
-**farruhdev/farruhdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#I'm farruhdev 
 
-Here are some ideas to get you started:
+##Here are some ideas to get you started:
 
   🔭 I’m currently working on Understanding Wep devlopment  
   🌱 I’m currently learning ...        
