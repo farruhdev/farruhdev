@@ -1,4 +1,4 @@
-# I'm farruhdev 👋
+`# I'm farruhdev` 👋
 
 ## Here are some ideas to get you started:
 
